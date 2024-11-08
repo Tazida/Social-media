@@ -2,7 +2,7 @@
 
 This project displays a set of clickable social media icons styled with HTML and CSS. Each icon links to a different social media profile, and unique hover effects reveal the platform name and change the icon's color.
 
-Live Demo []
+Live Demo [https://tazida.github.io/Social-media/]
 
 Features
 - Social Media Links: Icons link to LinkedIn, GitHub, Instagram, Facebook, Threads, and X (formerly Twitter) profiles.
