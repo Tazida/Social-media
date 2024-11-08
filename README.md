@@ -1,4 +1,4 @@
-Social Media Icons with Hover Effect
+💻 Project Title
 
 This project displays a set of clickable social media icons styled with HTML and CSS. Each icon links to a different social media profile, and unique hover effects reveal the platform name and change the icon's color.
 
